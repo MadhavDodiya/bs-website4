@@ -1,0 +1,11 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* img */
+.img1{background-image: url('img/home-bg.jpg');height: 700px;background-size: cover;background-repeat: no-repeat;background-position: center;width: 100%;}
+
+/* button */
+.btn1{padding: 10px 30px;border: 1px solid #77777788;background: none;color: #ffffff91;}
+.btn1:hover{padding: 10px 30px;border: 1px solid #777777;background: none;color: white;transition: 1s;}
