@@ -5,7 +5,10 @@
 
 /* img */
 .img1{background-image: url('img/home-bg.jpg');height: 700px;background-size: cover;background-repeat: no-repeat;background-position: center;width: 100%;}
-
+.img2{background-image: url('img/cta-form-bg.jpg');height: 300px;background-size: cover;background-repeat: no-repeat;background-position: center;}
 /* button */
 .btn1{padding: 10px 30px;border: 1px solid #77777788;background: none;color: #ffffff91;}
 .btn1:hover{padding: 10px 30px;border: 1px solid #777777;background: none;color: white;transition: 1s;}
+
+.btn2{padding: 10px 20px;border: 1px solid #c7866500;background: none;color: #c78665;}
+.btn2:hover{padding: 10px 20px;border: 1px solid #c78665;background: none;color: #c78665;transition: 0.5s;}
